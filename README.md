@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+### Name: LOKNAATH P
+### Register Number: 212223240080
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
